@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Pagina1/static/css/main.4269c6fe.chunk.css",
+    "main.js": "/Pagina1/static/js/main.f71b88d3.chunk.js",
+    "main.js.map": "/Pagina1/static/js/main.f71b88d3.chunk.js.map",
+    "runtime-main.js": "/Pagina1/static/js/runtime-main.1b8697c2.js",
+    "runtime-main.js.map": "/Pagina1/static/js/runtime-main.1b8697c2.js.map",
+    "static/js/2.6e2642c5.chunk.js": "/Pagina1/static/js/2.6e2642c5.chunk.js",
+    "static/js/2.6e2642c5.chunk.js.map": "/Pagina1/static/js/2.6e2642c5.chunk.js.map",
+    "index.html": "/Pagina1/index.html",
+    "static/css/main.4269c6fe.chunk.css.map": "/Pagina1/static/css/main.4269c6fe.chunk.css.map",
+    "static/js/2.6e2642c5.chunk.js.LICENSE.txt": "/Pagina1/static/js/2.6e2642c5.chunk.js.LICENSE.txt",
+    "static/media/nenad-grujic--b3wxY6jKEk-unsplash.6c2a1d98.jpg": "/Pagina1/static/media/nenad-grujic--b3wxY6jKEk-unsplash.6c2a1d98.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b8697c2.js",
+    "static/js/2.6e2642c5.chunk.js",
+    "static/css/main.4269c6fe.chunk.css",
+    "static/js/main.f71b88d3.chunk.js"
+  ]
+}
