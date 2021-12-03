@@ -1,0 +1,52 @@
+@import "../../global.scss";
+.services {
+
+  .subtitle {
+    text-align: center;
+    font-weight: 300;
+    color: rgba(4, 8, 8);
+    margin-bottom: 40px;
+    font-size: 50px;
+  }
+  .contenedor-servicio {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    img {
+      width: 40%;
+      @media screen and (max-width:800px){
+        width: 80%;
+        margin-bottom: 40px;
+       }
+    }
+    .checklist-servicio {
+      width: 45%;
+      @media screen and (max-width:800px){
+        width: 100%;
+          }
+      .service {
+        margin-bottom: 20px;
+        @media screen and (max-width:800px){
+       width: 100%;
+         }
+        .n-service {
+          margin-bottom: 7px;
+          color: #453a94;
+          .number {
+            display: inline-block;
+            background-image: linear-gradient(to top, #f43b47 0%, #453a94 100%);
+            width: 30px;
+            height: 30px;
+            color: white;
+            text-align: center;
+            border-radius: 50%;
+            font-weight: 700;
+            line-height: 30px;
+            margin-right: 5px;
+          }
+        }
+      }
+    }
+  }
+}

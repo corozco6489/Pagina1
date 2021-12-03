@@ -1,0 +1,35 @@
+@import "../../global.scss";
+.contenedor{
+    .subtitle {
+        text-align: center;
+        font-weight: 300;
+        color: rgba(4, 8, 8);
+        margin-bottom: 40px;
+        font-size: 50px;
+      }
+    .experts{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-wrap: wrap;
+        .cont-expert{
+            width: 30%;
+            text-align: center;
+            margin-bottom: 20px;
+            @media screen and (max-width:800px){
+               width: 100%;
+                     }
+            img{
+                width: 80%;
+                display: flex;
+                margin: 0 auto;
+            }
+            .n-experts{
+                display: inline-block;
+                margin-top: 20px;
+                width: 100%;
+                font-weight: 400;
+            }
+        }
+    }
+}
